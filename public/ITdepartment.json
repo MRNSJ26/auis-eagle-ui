@@ -1,0 +1,46 @@
+{
+  "SoftwareEngineering": {
+    "semester1": ["CSC101", "MTH101", "SCI101", "CIV101", "Eng101"],
+    "semester2": ["ITE202", "MTH235", "SCI102", "MTH340", "Eng102"],
+    "semester3": ["ITE303", "SE301", "SE311", "CIV203", "Eng203"],
+    "semester4": ["ITE301", "ITE305", "SEelective1", "CIV204", "STT201"],
+    "semester5": ["ITE409", "ITS350", "SE421", "ITE308", "IS/IRelective"],
+    "semester6": ["SE355", "SE455", "SE490", "MEDSelective", "Minor/Elective1"],
+    "semester7": [
+      "SE422",
+      "SE423",
+      "SEelective2",
+      "Minor/Elective2",
+      "Minor/Elective3"
+    ],
+    "semester8": [
+      "SE491",
+      "SEelective3",
+      "Minor/Elective4",
+      "Minor/Elective5",
+      "Minor/Elective6"
+    ]
+  },
+  "IT": {
+    "semester1": ["CSC101", "MTH101", "SCI101", "CIV101", "Eng101"],
+    "semester2": ["SCI102", "STT201", "Eng102", "MTH340", "MEDSelective"],
+    "semester3": ["ITE202", "MTH235", "CIV203", "Eng203", "IRelective"],
+    "semester4": ["ITE301", "ITE304", "ITE306", "CIV204", "Minor/Elective1"],
+    "semester5": [
+      "ITE303",
+      "ITE305",
+      "ITE308",
+      "ITelective1",
+      "Minor/Elective2"
+    ],
+    "semester6": ["ITE401", "ITE404", "ITE406", "ITE408", "Minor/Elective3"],
+    "semester7": ["ITE403", "ITE407", "ITE409", "ITE411", "Minor/Elective4"],
+    "semester8": [
+      "ITE412",
+      "ITelective2",
+      "ITelective3",
+      "Minor/Elective5",
+      "Minor/Elective6"
+    ]
+  }
+}
